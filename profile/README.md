@@ -8,4 +8,4 @@ Welcome to the AIAA High Lift Prediction Workshop Results submission Github Repo
 | 004            | NASA LaRC                         | USM3D-ME                        | Tausif Jamal
 | 005            | Boeing                            | Fidelity CharLES                | Adam Clark, Konrad Goc
 | 006            | Embraer                           |                                 | Eduardo Molina
-| 023            | Barcelona Supercomputing Center   | SOD2D                           | Samuel Gómez González, Oriol Lehmkuhl
+| 007            | Barcelona Supercomputing Center   | SOD2D                           | Samuel Gómez González, Oriol Lehmkuhl
