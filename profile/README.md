@@ -7,7 +7,7 @@ Welcome to the AIAA High Lift Prediction Workshop Results submission Github Repo
 | 003            | FlexCompute                       | Flow360                         | Thomas Fitzgibbon
 | 004            | NASA LaRC                         | USM3D-ME                        | Tausif Jamal
 | 005            | Boeing                            | Fidelity charLES                | Adam Clark, Konrad Goc
-| 006            | Embraer                           |                                 | Eduardo Molina
+| 006            | Embraer                           | Flow360, Volcano ScaLES, CFD++  | Eduardo Molina
 | 007            | Siemens                           | Simcenter STAR-CCM+             | Chris Nelson
 | 008            | Numeric Systems GmbH              | Pacefish                        | Saad Ali, Eugen Riegel
 | 009            | JAXA                              | FaSTAR                          | Andrea Sansica 
