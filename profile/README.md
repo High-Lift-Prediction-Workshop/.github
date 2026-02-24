@@ -12,8 +12,11 @@ Welcome to the AIAA High Lift Prediction Workshop Results submission Github Repo
 | 008            | Numeric Systems GmbH                     | Pacefish                        | Saad Ali, Eugen Riegel                             | S
 | 009            | JAXA                                     | FaSTAR                          | Andrea Sansica                                     | S
 | 010            | National Laboratory of the Rockies (NLR) | Nalu-Wind                       | Bumseok Lee, Ganesh Vijayakumar, Michael Sprague   | S
-| 011            | Caltech                                  | charLES                         | Imran Hayat, Yuenong Ling, Adrian Lozano-Duran
+| 011            | Caltech                                  | charLES                         | Imran Hayat, Yuenong Ling, Adrian Lozano-Duran     | S
 | 012            | ONERA                                    | SoNICS                          | Younes Bouhafid                                    | S
+| 013            | NASA Ames (LAVA Group)                   | LAVA Cartesian                  | Michael Barad                                      | S
+| 014            | NASA Ames (LAVA Group)                   | LAVA Unstructured               | Emre Sozer                                         | S
+| 015            | NASA Ames (LAVA Group)                   | LAVA Curvilinear                | Jeffrey Housman                                    | S
 | 023            | Barcelona Supercomputing Center          | SOD2D                           | Samuel Gómez González, Oriol Lehmkuhl              | S
 
 TFGs: R = RANS, S = Scale Resolving, H = High-Order, A = AI/ML
