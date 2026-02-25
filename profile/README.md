@@ -5,9 +5,9 @@ Welcome to the AIAA High Lift Prediction Workshop Results submission Github Repo
 | 001            | University of Kansas                     | hoMusic                         | ZJ Wang                                            | S
 | 002            | Gulfstream                               | FUN3D and Fidelity charLES      | Joseph Gavin                                       | S, R
 | 003            | FlexCompute                              | Flow360                         | Thomas Fitzgibbon                                  | S
-| 004            | NASA LaRC                                | USM3D-ME                        | Tausif Jamal                                       | S
-| 005            | Boeing                                   | Fidelity charLES                | Adam Clark, Konrad Goc                             | S
-| 006            | Embraer                                  | Flow360, Volcano ScaLES, CFD++  | Eduardo Molina                                     | S, R
+| 004            | NASA LaRC & Helden Aerospace             | USM3D-ME                        | Alaa Elmiligui, Andrew Wick, Boris Diskin, Craig Hunter, Mohagna Pandya, Rick Hooker, Sally Viken, Steven Krist, Tausif Jamal | R
+| 005            | Coventry / De Montfort Universities      | OpenFOAM                        | Mohamed Sereez, Mikhail Goman                      | R
+| 006            | Boeing                                   | Fidelity charLES                | Adam Clark, Konrad Goc                             | S
 | 007            | Siemens                                  | Simcenter STAR-CCM+             | Chris Nelson                                       | S
 | 008            | Numeric Systems GmbH                     | Pacefish                        | Saad Ali, Eugen Riegel                             | S
 | 009            | JAXA                                     | FaSTAR                          | Andrea Sansica                                     | S
@@ -28,9 +28,11 @@ Welcome to the AIAA High Lift Prediction Workshop Results submission Github Repo
 | 024            | Synopsys Inc.                            | Fluent                          | Krishna Zore, Cristhian Aliaga, Jeya Selva, Antil Wakale | R
 | 025            | Istanbul Technical University            | HEMLAB                          | Mehmet Sahin, Hulya Sukas                          | R
 | 026            | National Laboratory of the Rockies       | Nalu-Wind                       | Bumseok Lee, Ganesh Vijayakumar, Michael Sprague   | R
-| 027            |                               |                          |             | R
-| 028            |                               |                          |             | R
-| 029            |                               |                          |             | R
-| 030            |                               |                          |             | R
+| 027            | Japan Aerospace Exploration Agency (JAXA)| TAS                             | Yoimi Kojima, Yasushi Ito, Mitsuhiro Murayama, Takashi Ishida, Kentaro Tanaka, Tohru Hirai | R
+| 028            | Embraer                                  | CFD++                           | Pedro Ciloni, Eduardo Molina, Mauro Lopez, Rodrigo Granzoto | R
+| 029            | Embraer                                  | FLOW360                         | Pedro Ciloni, Eduardo Molina, Mauro Lopez, Rodrigo Granzoto | R
+| 030            | Embraer                                  | Volcano Scales                  | Pedro Ciloni, Eduardo Molina, Mauro Lopez, Rodrigo Granzoto | R
+| 031            | Numeric Sstems                           | Pacefish                        | Saad Ali, Eugen Riegel                             | R
+| 032            | Textron Aviation                         | FUN3d                           | Kelly Laflin                                       | R
 
 TFGs: R = RANS, S = Scale Resolving, H = High-Order, A = AI/ML
