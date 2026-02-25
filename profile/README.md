@@ -22,9 +22,9 @@ Welcome to the AIAA High Lift Prediction Workshop Results submission Github Repo
 | 018            | Bombardier Aerospace                     | Dragon                          | Marc Langlois, Hong Yang                           | R
 | 019            | ONERA, DLR                               | CODA                            | Thomas Renaud, Camille Fournis, Fulvio Sartor, Malte Wegener, Axel Schwoeppe | R
 | 020            | Polytechnique Montreal                   | CHAMPS                          | Baptiste Arnould                                   | R
-| 021            | Barcelona Supercomputing Center          | SOD2D                           | Samuel Gómez González, Oriol Lehmkuhl              | S
-| 022            | Synopsys Inc.                            | Fluent                          | Krishna Zore, Cristhian Aliaga, Jeya Selva, Antil Wakale | R
-| 023            | Istanbul Technical University            | HEMLAB                          | Mehmet Sahin, Hulya Sukas                          | R
+| 021            | Synopsys Inc.                            | Fluent                          | Krishna Zore, Cristhian Aliaga, Jeya Selva, Antil Wakale | R
+| 022            | Istanbul Technical University            | HEMLAB                          | Mehmet Sahin, Hulya Sukas                          | R
+| 023            | Barcelona Supercomputing Center          | SOD2D                           | Samuel Gómez González, Oriol Lehmkuhl              | S
 | 024            | Japan Aerospace Exploration Agency (JAXA)| TAS                             | Yoimi Kojima, Yasushi Ito, Mitsuhiro Murayama, Takashi Ishida, Kentaro Tanaka, Tohru Hirai | R
 | 025            | Embraer                                  | CFD++                           | Pedro Ciloni, Eduardo Molina, Mauro Lopez, Rodrigo Granzoto | R
 | 026            | Embraer                                  | FLOW360                         | Pedro Ciloni, Eduardo Molina, Mauro Lopez, Rodrigo Granzoto | R
