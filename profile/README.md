@@ -17,6 +17,20 @@ Welcome to the AIAA High Lift Prediction Workshop Results submission Github Repo
 | 013            | NASA Ames (LAVA Group)                   | LAVA Cartesian                  | Michael Barad                                      | S
 | 014            | NASA Ames (LAVA Group)                   | LAVA Unstructured               | Emre Sozer                                         | S
 | 015            | NASA Ames (LAVA Group)                   | LAVA Curvilinear                | Jeffrey Housman                                    | S
+| 016            | NASA LaRC                                | FUN3D                           | Nathaniel Hildebrannd, Meelan Choudhari, Prahladh Iyer, Boris Diskin | R
+| 017            | Kawasaki Heavy Industries                | Cflow                           | Hidemasa Yasuda, Yuta Sawaki, Hiroyoshi Asano      | R
+| 018            | Gulfstream Aerospace                     | FUN3D                           | Andy Clemens, Ed Schurr, Joe Gavin                 | R
+| 019            | Bombardier Aerospace                     | Dragon                          | Marc Langlois, Hong Yang                           | R
+| 020            | ONERA, DLR                               | CODA                            | Thomas Renaud, Camille Fournis, Fulvio Sartor, Malte Wegener, Axel Schwoeppe | R
+| 021            | Polytechnique Montreal                   | CHAMPS                          | Baptiste Arnould                                   | R
+| 022            | Flexcompute                              | Flow360                         | Thomas Fitzgibbon, Mike Park, Qiqi Wang            | R
 | 023            | Barcelona Supercomputing Center          | SOD2D                           | Samuel Gómez González, Oriol Lehmkuhl              | S
+| 024            | Synopsys Inc.                            | Fluent                          | Krishna Zore, Cristhian Aliaga, Jeya Selva, Antil Wakale | R
+| 025            | Istanbul Technical University            | HEMLAB                          | Mehmet Sahin, Hulya Sukas                          | R
+| 026            | National Laboratory of the Rockies       | Nalu-Wind                       | Bumseok Lee, Ganesh Vijayakumar, Michael Sprague   | R
+| 027            |                               |                          |             | R
+| 028            |                               |                          |             | R
+| 029            |                               |                          |             | R
+| 030            |                               |                          |             | R
 
 TFGs: R = RANS, S = Scale Resolving, H = High-Order, A = AI/ML
