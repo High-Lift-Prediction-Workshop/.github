@@ -24,8 +24,8 @@ Welcome to the AIAA High Lift Prediction Workshop Results submission Github Repo
 | 020            | Polytechnique Montreal                   | CHAMPS                          | Baptiste Arnould                                   | R
 | 021            | Synopsys Inc.                            | Fluent                          | Krishna Zore, Cristhian Aliaga, Jeya Selva, Antil Wakale | R
 | 022            | Istanbul Technical University            | HEMLAB                          | Mehmet Sahin, Hulya Sukas                          | R
-| 023            | Coventry / De Montfort Universities      | OpenFOAM                        | Mohamed Sereez, Mikhail Goman                      | R
-| 024            | Barcelona Supercomputing Center          | SOD2D                           | Samuel Gómez González, Oriol Lehmkuhl              | S
+| 023            | Barcelona Supercomputing Center          | SOD2D                           | Samuel Gómez González, Oriol Lehmkuhl              | S
+| 024            | Coventry / De Montfort Universities      | OpenFOAM                        | Mohamed Sereez, Mikhail Goman                      | R
 | 025            | Japan Aerospace Exploration Agency (JAXA)| TAS                             | Yoimi Kojima, Yasushi Ito, Mitsuhiro Murayama, Takashi Ishida, Kentaro Tanaka, Tohru Hirai | R
 | 026            | Embraer                                  | CFD++                           | Pedro Ciloni, Eduardo Molina, Mauro Lopez, Rodrigo Granzoto | R
 | 027            | Embraer                                  | FLOW360                         | Pedro Ciloni, Eduardo Molina, Mauro Lopez, Rodrigo Granzoto | R
