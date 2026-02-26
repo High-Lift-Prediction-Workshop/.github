@@ -12,7 +12,7 @@ Welcome to the AIAA High Lift Prediction Workshop Results submission Github Repo
 | 008            | Numeric Systems GmbH                     | Pacefish                        | Saad Ali, Eugen Riegel                             | R, S
 | 009            | JAXA                                     | FaSTAR                          | Andrea Sansica                                     | S
 | 010            | National Laboratory of the Rockies (NLR) | Nalu-Wind                       | Bumseok Lee, Ganesh Vijayakumar, Michael Sprague   | R, S
-| 011            | Caltech                                  | charLES                         | Imran Hayat, Yuenong Ling, Adrian Lozano-Duran     | S
+| 011            | Caltech                                  | Fidelity charLES                | Imran Hayat, Yuenong Ling, Adrian Lozano-Duran     | S
 | 012            | ONERA                                    | SoNICS                          | Younes Bouhafid                                    | S
 | 013            | NASA Ames (LAVA Group)                   | LAVA Cartesian                  | Michael Barad                                      | S
 | 014            | NASA Ames (LAVA Group)                   | LAVA Unstructured               | Emre Sozer                                         | S
@@ -28,8 +28,8 @@ Welcome to the AIAA High Lift Prediction Workshop Results submission Github Repo
 | 024            | Coventry / De Montfort Universities      | OpenFOAM                        | Mohamed Sereez, Mikhail Goman                      | R
 | 025            | Japan Aerospace Exploration Agency (JAXA)| TAS                             | Yoimi Kojima, Yasushi Ito, Mitsuhiro Murayama, Takashi Ishida, Kentaro Tanaka, Tohru Hirai | R
 | 026            | Embraer                                  | CFD++                           | Pedro Ciloni, Eduardo Molina, Mauro Lopez, Rodrigo Granzoto | R
-| 027            | Embraer                                  | FLOW360                         | Pedro Ciloni, Eduardo Molina, Mauro Lopez, Rodrigo Granzoto | R
-| 028            | Embraer                                  | Volcano Scales                  | Pedro Ciloni, Eduardo Molina, Mauro Lopez, Rodrigo Granzoto | R
-| 029            | Textron Aviation                         | FUN3d                           | Kelly Laflin                                       | R
+| 027            | Embraer                                  | Flow360                         | Pedro Ciloni, Eduardo Molina, Mauro Lopez, Rodrigo Granzoto | R, S
+| 028            | Embraer                                  | Volcano ScaLES                  | Pedro Ciloni, Eduardo Molina, Mauro Lopez, Rodrigo Granzoto | S
+| 029            | Textron Aviation                         | FUN3D                           | Kelly Laflin                                       | R
 
 TFGs: R = RANS, S = Scale Resolving, H = High-Order, A = AI/ML
