@@ -31,5 +31,6 @@ Welcome to the AIAA High Lift Prediction Workshop Results submission Github Repo
 | 027            | Embraer                                  | Flow360                         | Pedro Ciloni, Eduardo Molina, Mauro Lopez, Rodrigo Granzoto | R, S
 | 028            | Embraer                                  | Volcano ScaLES                  | Pedro Ciloni, Eduardo Molina, Mauro Lopez, Rodrigo Granzoto | S
 | 029            | Textron Aviation                         | FUN3D                           | Kelly Laflin                                       | R
+| 030            | INRIA                                    | Wolf                            | Frederic Alauzet, Cosimo Tarsia Morisco, Matthieu Maunoury | R
 
 TFGs: R = RANS, S = Scale Resolving, H = High-Order, A = AI/ML
