@@ -7,7 +7,7 @@ Welcome to the AIAA High Lift Prediction Workshop Results submission Github Repo
 | 003            | Gulfstream                               | Fidelity charLES                | Andy Clemens, Ed Schurr, Joe Gavin                 | S
 | 004            | FlexCompute                              | Flow360                         | Thomas Fitzgibbon, Mike Park, Qiqi Wang            | R, S
 | 005            | NASA LaRC & Helden Aerospace             | USM3D-ME                        | Alaa Elmiligui, Andrew Wick, Boris Diskin, Craig Hunter, Mohagna Pandya, Rick Hooker, Sally Viken, Steven Krist, Tausif Jamal | R, S
-| 006            | Boeing                                   | Fidelity charLES                | Adam Clark, Konrad Goc                             | S
+| 006            | Boeing                                   | Fidelity charLES                | Adam Clark, Konrad Goc, Brett Bornhoft, Reza Djeddi, Jean Charles Bonaccorsi, Rahul Agrawal, Sanjeeb Bose, Kumar Srinivasan | S
 | 007            | Siemens                                  | Simcenter STAR-CCM+             | Chris Nelson                                       | R, S
 | 008            | Numeric Systems GmbH                     | Pacefish                        | Saad Ali, Eugen Riegel                             | R, S
 | 009            | JAXA                                     | FaSTAR                          | Andrea Sansica                                     | S
