@@ -34,5 +34,6 @@ Welcome to the AIAA High Lift Prediction Workshop Results submission Github Repo
 | 030            | INRIA                                    | Wolf                            | Frederic Alauzet, Cosimo Tarsia Morisco, Matthieu Maunoury | R
 | 031            | Simfinity Labs                           | Unnamed WMLES solver            | Nick Hawker                                         | S
 | 032            | Rankyee Technology/BUAA                  | DIMAXER                         | Keli Zhang, Yuenong Ling, Yuping Ren, Kai Liu       | S, H
+| 033            | Embraer                                  | SU2                             | Pedro Ciloni, Eduardo Molina, Mauro Lopez, Rodrigo Granzoto | S
 
 TFGs: R = RANS, S = Scale Resolving, H = High-Order, A = AI/ML
