@@ -20,7 +20,7 @@ Welcome to the AIAA High Lift Prediction Workshop Results submission Github Repo
 | 016            | NASA LaRC                                | FUN3D                           | Nathaniel Hildebrannd, Meelan Choudhari, Prahladh Iyer, Boris Diskin | R
 | 017            | Kawasaki Heavy Industries                | Cflow                           | Hidemasa Yasuda, Yuta Sawaki, Hiroyoshi Asano      | R
 | 018            | Bombardier Aerospace                     | Dragon                          | Marc Langlois, Hong Yang                           | R
-| 019            | ONERA, DLR                               | CODA                            | Thomas Renaud, Camille Fournis, Fulvio Sartor, Malte Wegener, Axel Schwoeppe | R
+| 019            | DLR                                      | CODA                            | Malte Wegener, Axel Schwoeppe                      | R
 | 020            | Polytechnique Montreal                   | CHAMPS                          | Baptiste Arnould                                   | R
 | 021            | Synopsys Inc.                            | Fluent                          | Krishna Zore, Cristhian Aliaga, Jeya Selva, Antil Wakale | R
 | 022            | Istanbul Technical University            | HEMLAB                          | Mehmet Sahin, Hulya Sukas                          | R
@@ -35,5 +35,7 @@ Welcome to the AIAA High Lift Prediction Workshop Results submission Github Repo
 | 031            | Simfinity Labs                           | Unnamed WMLES solver            | Nick Hawker                                         | S
 | 032            | Rankyee Technology/BUAA                  | DIMAXER                         | Keli Zhang, Yuenong Ling, Yuping Ren, Kai Liu       | S, H
 | 033            | Embraer                                  | SU2                             | Pedro Ciloni, Eduardo Molina, Mauro Lopez, Rodrigo Granzoto | R, S
+| 034            | Onera                                    | eLSA                            | Thomas Renaud, Camille Fournis, Fulvio Sartor | R
+| 035            | Onera                                    | proLB                           | Thomas Renaud | S
 
 TFGs: R = RANS, S = Scale Resolving, H = High-Order, A = AI/ML
