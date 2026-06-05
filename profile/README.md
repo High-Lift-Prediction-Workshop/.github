@@ -5,7 +5,7 @@ Welcome to the AIAA High Lift Prediction Workshop Results submission Github Repo
 | 001            | University of Kansas                     | hoMusic                         | ZJ Wang                                            | S
 | 002            | Gulfstream                               | FUN3D                           | Andy Clemens, Ed Schurr, Joe Gavin                 | R, S
 | 003            | Gulfstream                               | Fidelity charLES                | Andy Clemens, Ed Schurr, Joe Gavin                 | S
-| 004            | FlexCompute                              | Flow360                         | Thomas Fitzgibbon, Mike Park, Qiqi Wang            | R, S
+| 004            | FlexCompute                              | Flow360                         | Thomas Fitzgibbon, Mike Park, Qiqi Wang            | R, S, A
 | 005            | NASA LaRC & Helden Aerospace             | USM3D-ME                        | Alaa Elmiligui, Andrew Wick, Boris Diskin, Craig Hunter, Mohagna Pandya, Rick Hooker, Sally Viken, Steven Krist, Tausif Jamal | R, S
 | 006            | Boeing/Cadence                           | Fidelity charLES                | Adam Clark, Konrad Goc, Brett Bornhoft, Reza Djeddi | S
 | 007            | Siemens                                  | Simcenter STAR-CCM+             | Chris Nelson                                       | R, S
@@ -37,5 +37,9 @@ Welcome to the AIAA High Lift Prediction Workshop Results submission Github Repo
 | 033            | Embraer                                  | SU2                             | Pedro Ciloni, Eduardo Molina, Mauro Lopez, Rodrigo Granzoto | R, S
 | 034            | Onera                                    | eLSA                            | Thomas Renaud, Camille Fournis, Fulvio Sartor | R
 | 035            | Onera                                    | proLB                           | Thomas Renaud | S
+| 036            | Corvid Technologies                      | Savanna                         | Colton Beardsley and Mathieu Amiraux | A
+| 037            | Embraer                                  | Unnamed                         | Eduardo Molina | A
+| 038            | NVIDIA/Boeing                            | PhysicsNeMo                     | Neil Ashton, Corey Adams, Peter Sharpe, Semih Akkurt, Adam Clarke, Jamie Saw | A
+| 039            | Luminary.AI                              | Luminary Physics AI platform    | Tom Economon, Peter Lyu, Michael Emory | A
 
 TFGs: R = RANS, S = Scale Resolving, H = High-Order, A = AI/ML
