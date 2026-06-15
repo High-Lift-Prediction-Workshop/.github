@@ -2,7 +2,7 @@ Welcome to the AIAA High Lift Prediction Workshop Results submission Github Repo
 
 | Participant ID | Organization                             | Solver(s)                       | Name(s)                                            | TFG(s)
 |:--------------:| ---------------------------------------- | ------------------------------- | ---------------------------------------------------|----------------------------
-| 001            | University of Kansas                     | hoMusic                         | ZJ Wang                                            | S
+| 001            | University of Kansas                     | hpMusic                         | ZJ Wang                                            | S
 | 002            | Gulfstream                               | FUN3D                           | Andy Clemens, Ed Schurr, Joe Gavin                 | R, S
 | 003            | Gulfstream                               | Fidelity charLES                | Andy Clemens, Ed Schurr, Joe Gavin                 | S
 | 004            | FlexCompute                              | Flow360                         | Thomas Fitzgibbon, Mike Park, Qiqi Wang            | R, S, A
