@@ -42,5 +42,6 @@ Welcome to the AIAA High Lift Prediction Workshop Results submission Github Repo
 | 038            | NVIDIA/Boeing                            | PhysicsNeMo                     | Neil Ashton, Corey Adams, Peter Sharpe, Semih Akkurt, Adam Clarke, Jamie Saw | A
 | 039            | Luminary.AI                              | Luminary Physics AI platform    | Tom Economon, Peter Lyu, Michael Emory | A
 | 040            | BeyondMath                               | BeyondMath Foundational Model   | Oliver Browne, Alan Patterson, Gavin Seegoolam | A
+| 041            | PhysicsX                                 |    | Marian Zastawny | 
 
 TFGs: R = RANS, S = Scale Resolving, H = High-Order, A = AI/ML
